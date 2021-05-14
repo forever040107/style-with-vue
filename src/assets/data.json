@@ -1,0 +1,31 @@
+{
+  "database": {
+    "pokemons": {
+      "-Liz-gBScC4XEJctOdm1": {
+        "publicId": "pokemons/pap3jtrj9hlleudbxjfh",
+        "title": "Ivysaur",
+        "url": "http://res.cloudinary.com/mayashavin/image/upload/v1562279386/pokemons/pap3jtrj9hlleudbxjfh.png"
+      },
+      "-Liz-gBWDX48E6RmgIo1": {
+        "publicId": "pokemons/vjsotqvvahdttgg4ifse",
+        "title": "Bulbasaur",
+        "url": "http://res.cloudinary.com/mayashavin/image/upload/v1562279386/pokemons/vjsotqvvahdttgg4ifse.png"
+      },
+      "-Liz-gE4WELH4bJu6pbv": {
+        "publicId": "pokemons/oghupwxzoxhodzoyddci",
+        "title": "VenusaurGrass",
+        "url": "http://res.cloudinary.com/mayashavin/image/upload/v1562279386/pokemons/oghupwxzoxhodzoyddci.png"
+      },
+      "-Liz-gEDk8yge9qXDTwF": {
+        "publicId": "pokemons/kekygaowclk2cf6xys3z",
+        "title": "Charmander",
+        "url": "http://res.cloudinary.com/mayashavin/image/upload/v1562279386/pokemons/kekygaowclk2cf6xys3z.png"
+      },
+      "-Liz-gGilV3i3itJw2DZ": {
+        "publicId": "pokemons/cmmllx3yphsnnbglkpmh",
+        "title": "Charmeleon",
+        "url": "http://res.cloudinary.com/mayashavin/image/upload/v1562279388/pokemons/cmmllx3yphsnnbglkpmh.png"
+      }
+    }
+  }
+}
